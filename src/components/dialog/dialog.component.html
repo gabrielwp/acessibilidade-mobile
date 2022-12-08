@@ -1,0 +1,8 @@
+<div class="dialog__overlay"></div>
+<div class="dialog__container">
+  <div class="container__content">
+    <h1>{{ titulo }}</h1>
+    <p>{{ mensagem }}</p>
+    <app-botao [titulo]="tituloBotao" (clickBotaoEvent)="clickBotao()"></app-botao>
+  </div>
+</div>

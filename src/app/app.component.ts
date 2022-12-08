@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { TranslateService } from '@ngx-translate/core';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +7,18 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'acessibilidade-mobile';
+  showDialog = false;
+
+  constructor(private translate: TranslateService) {
+    translate.setDefaultLang('pt');
+    translate.use('pt');
+  }
+
+  clickBotao() {
+    this.showDialog = true;
+  }
+
+  redirect() {
+    window.location.href = `https://www.w3.org/WAI/ARIA/apg/patterns/`;
+  }
 }

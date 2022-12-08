@@ -1,0 +1,32 @@
+.acessibilidade-content {
+  padding: 24px;
+
+  &__header {
+    h1 {
+      font-size: 24px;
+      margin-top: 0;
+    }
+  }
+
+  &__expansiveis {
+    margin-top: 24px;
+
+    .expansiveis-content {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+
+      p {
+        margin-top: 0;
+      }
+
+      img {
+        width: 140px;
+      }
+    }
+  }
+
+  &__botao {
+    margin-top: 32px;
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "ACESSIBILIDADE_WEB": "ACESSIBILIDADE WEB",
+  "ACESSIBILIDADE_WEB_DESCRICAO_1": "Acessibilidade Web define que pessoas com algum tipo de limitação possam perceber, compreender, navegar e interagir com a web e podem também contribuir com ela.",
+  "ACESSIBILIDADE_WEB_DESCRICAO_2": "Os sites devem ser acessíveis por teclado, mouse ou telas sensíveis, e qualquer outra forma, incluindo leitores de tela, ou assistentes de voz.",
+  "ACESSIBILIDADE_WEB_DESCRICAO_3": "Por padrão, o HTML é acessível, se utilizado corretamente. A acessibilidade web presume que o conteúdo continuará acessível, independente de como o conteúdo será acessado.",
+  "ACESSIBILIDADE_WEB_DESCRICAO_4": "Boa parte do conteúdo da Web pode ser 'acessível' apenas garantindo que as tags HTML sejam sempre usadas para a finalidade correta. Portanto, é imprescindível garantirmos uma boa semântica na hora de escrevermos nosso HTML.",
+  "TIPOS_DE_LIMITACOES": "Tipos de limitações:",
+  "PERMANENTE": "Permanente",
+  "PERMANENTE_DESCRICAO": "Pessoas cegas ou com baixa visibilidade, surdas, mudas ou com algum tipo de limitação física permanente, seja ela total ou em algum grau.",
+  "ACESSIBILIDADE_IMAGEM_PERMANENTE": "A imagem mostra uma pessoa com um braço, como exemplo de limitação permanente.",
+  "TEMPORARIA": "Temporária",
+  "TEMPORARIA_DESCRICAO": "Membro quebrado, infecção no ouvido, catarata, ou algum tipo de doença ou condição que limite uma pessoa por um determinado período de tempo.",
+  "ACESSIBILIDADE_IMAGEM_TEMPORARIA": "A imagem mostra uma pessoa com um braço quebrado, como exemplo de limitação temporária.",
+  "SITUACIONAL": "Situacional",
+  "SITUACIONAL_DESCRICAO": "Ambiente sem iluminação, com muita poluição sonora ou qualquer tipo de situação que possa comprometer os nossos sentidos.",
+  "ACESSIBILIDADE_IMAGEM_SITUACIONAL": "A imagem mostra uma pessoa com os braços ocupados com uma criança de colo, como exemplo de limitação situacional.",
+  "CONCLUIR_TREINAMENTO": "Concluir treinamento",
+  "CONCLUIR_TREINAMENTO_DESCRICAO": "Clique para concluir seu treinamento de acessibilidade.",
+  "PARABENS": "Parabéns!",
+  "GUIA_CONCLUIDO_DESCRICAO": "O guia de acessibilidade foi concluído com sucesso!",
+  "CONTINUAR": "Continuar"
+}
